@@ -79,6 +79,14 @@
 		{
 			"Name": "Reflex",
 			"Enabled": true
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
