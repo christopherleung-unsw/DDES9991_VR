@@ -1,6 +1,6 @@
 # Unreal Engine VR
 This MSIT Capstone project explores the VR capabilities of <b>Unreal Engine 5.4.4</b>.<br>
-An ArchVis demo was used as a base to showcase and compare UE’s features, found under ```Content/_DDES9991_Showcase```<br>
+An ArchVis demo was used as a base to showcase and compare UE’s features, found under ```Content/_DDES9991_Showcase```, with a video showcase viewable [here](https://youtu.be/APmUC50VlbE).<br>
 <br>
 A more detailed and general guide covering UE's features can be found [here](_Guides/UE_VRGuide_CL.pdf). Else, to quickly get started the mandatory steps can be found below.<br>
 ## Getting Started
